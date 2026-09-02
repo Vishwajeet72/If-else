@@ -1,0 +1,2 @@
+# OddEvenCode
+using BufferedReader.
